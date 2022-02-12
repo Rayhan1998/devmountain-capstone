@@ -1,0 +1,16 @@
+.thread-box {
+  position: relative;
+  min-height: 130px;
+  margin-bottom: 20px;
+}
+
+.thread-box-creator {
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+}
+.thread-box-date {
+  position: absolute;
+  top: 0;
+  right: 5px;
+}

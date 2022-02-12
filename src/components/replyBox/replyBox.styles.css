@@ -1,0 +1,20 @@
+.reply-container {
+  border: 1px solid black;
+  position: relative;
+  min-height: 100px;
+}
+
+.reply-date {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.reply-body {
+  width: 80%;
+}
+.user_name {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

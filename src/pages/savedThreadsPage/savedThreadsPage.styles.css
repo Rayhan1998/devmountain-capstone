@@ -1,0 +1,12 @@
+.likedThreadsPage {
+  background: rgb(132, 206, 235);
+  background: linear-gradient(
+    130deg,
+    rgba(132, 206, 235, 1) 0%,
+    rgba(90, 185, 234, 1) 50%,
+    rgba(193, 200, 228, 1) 76%,
+    rgba(136, 96, 208, 1) 100%
+  );
+  min-height: 100vh;
+  padding: 20px;
+}

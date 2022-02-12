@@ -1,0 +1,22 @@
+.all-thread-page {
+  background: rgb(132, 206, 235);
+  background: linear-gradient(
+    130deg,
+    rgba(132, 206, 235, 1) 0%,
+    rgba(90, 185, 234, 1) 50%,
+    rgba(193, 200, 228, 1) 76%,
+    rgba(136, 96, 208, 1) 100%
+  );
+  height: 100vh;
+}
+
+.upper-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.threads-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
